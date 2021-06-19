@@ -1,6 +1,19 @@
-# Ingeni0usCipher
-Learn,Solve and Work!
-Software engineering student with lot of love for coding. If i had to not earn to live i would go on researching upon coding.
-Only regret that i should have started coding earlier.
-love to be active and stay focused
- 
+The automated mail using python
+
+Input:
+Allow the access in google mail account
+Voice as an input
+Taking some email IDs and adding them in the code
+Detection of name and identification of them in the provided code list of emails
+
+Output
+The code will send the email among the present email IDs
+the mail can be said and the system will recognize the voice and automated mail will be sent
+
+The Tool used is PyCharm
+Language is Python
+
+Contact:
+Shreya Hegde
+shreyahegdemv@gmail.com
+9591625409
